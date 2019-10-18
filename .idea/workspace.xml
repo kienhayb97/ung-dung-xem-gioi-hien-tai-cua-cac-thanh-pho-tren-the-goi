@@ -108,9 +108,8 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="139" />
-    <option name="y" value="118" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="805" />
     <option name="width" value="1062" />
     <option name="height" value="1032" />
   </component>
